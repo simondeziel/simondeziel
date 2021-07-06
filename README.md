@@ -12,6 +12,6 @@ Most of my free time is shared between improving my home infrastructure and cont
 
 ### 📫 How to reach me:
 
-- IRC: I go by the name `sdeziel` and I usually hang in `#ubuntu-server` on freenode
+- IRC: I go by the name `sdeziel` and I usually hang in `#ubuntu-server` on [libera](https://libera.chat)
 - Email: you should be able to guess a valid username under the [@sdeziel.info](mailto:change_me@sdeziel.info) domain
 - My [Linkedin](https://www.linkedin.com/in/simon-deziel) profile
